@@ -8,7 +8,7 @@ class Component_z extends Component {
   //   defaultProps = { get_z: "" };
   render() {
     return (
-      <div className="layer">
+      <div className="layer3">
         <h3>Component Z</h3>
         <br />
         <span>Get Value from comp C : </span>
